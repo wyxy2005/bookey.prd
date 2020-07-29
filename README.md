@@ -7,6 +7,6 @@
 ## 按页面
 
 - Discover - 发现页
-- Library - 藏书页
+- LibrarySave - 藏书页
 - Me - 我的页面
 
