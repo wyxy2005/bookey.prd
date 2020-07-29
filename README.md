@@ -2,6 +2,7 @@
 
 ## 按功能
 
+- [Subscribe - 订阅](https://github.com/bookey-dev/bookey.requirement/issues/13)
 - [Collections - 书单](https://github.com/bookey-dev/bookey.requirement/issues/9)
 - [Quotes - 金句](https://github.com/bookey-dev/bookey.requirement/issues/3)
 - [Discount - 订阅折扣](https://github.com/bookey-dev/bookey.requirement/issues/4)
