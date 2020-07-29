@@ -2,7 +2,7 @@
 
 ## 按功能
 
-- [Subscribe - 订阅](https://github.com/bookey-dev/bookey.requirement/issues/13)
+- [Subscribe - 订阅](https://github.com/bookey-dev/bookey.requirement/issues/10)
 - [Collections - 书单](https://github.com/bookey-dev/bookey.requirement/issues/9)
 - [Quotes - 金句](https://github.com/bookey-dev/bookey.requirement/issues/3)
 - [Discount - 订阅折扣](https://github.com/bookey-dev/bookey.requirement/issues/4)
@@ -15,7 +15,7 @@
 ## 按页面
 
 - [Discover - 发现页](https://github.com/bookey-dev/bookey.requirement/issues/11)
-- Library - 藏书页
+- [Library - 藏书页](https://github.com/bookey-dev/bookey.requirement/issues/13)
 - Share - 分享页
 - [Me - 我的页面](https://github.com/bookey-dev/bookey.requirement/issues/1)
 
