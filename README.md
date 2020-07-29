@@ -1,5 +1,7 @@
 # bookey.requirement
 
+[版本](https://github.com/bookey-dev/bookey.requirement/wiki)
+
 ## 按功能
 
 - [Subscribe - 订阅](https://github.com/bookey-dev/bookey.requirement/issues/10)
