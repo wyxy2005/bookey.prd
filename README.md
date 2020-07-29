@@ -14,5 +14,6 @@
 
 - [Discover - 发现页](https://github.com/bookey-dev/bookey.requirement/issues/11)
 - Library - 藏书页
+- Share - 分享页
 - [Me - 我的页面](https://github.com/bookey-dev/bookey.requirement/issues/1)
 
