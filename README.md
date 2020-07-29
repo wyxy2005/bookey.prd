@@ -1,8 +1,13 @@
 # bookey.requirement
 
-## Me - 我的
+## 按功能
 
-## Collections - 书单
+- Collections - 书单
+- Library - 图书收藏
 
-## Library - 收藏
+## 按页面
+
+- Discover - 首页（发现页）
+- Me - 我的页面
+
 
