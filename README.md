@@ -9,6 +9,7 @@
 - [Coupon - 礼品券](https://github.com/bookey-dev/bookey.requirement/issues/5)
 - [LearningPath - 学习计划](https://github.com/bookey-dev/bookey.requirement/issues/7)
 - [Inbox - 收信箱](https://github.com/bookey-dev/bookey.requirement/issues/8)
+- [History - 阅读历史](https://github.com/bookey-dev/bookey.requirement/issues/12)
 
 ## 按页面
 
