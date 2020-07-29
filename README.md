@@ -1,6 +1,13 @@
 # bookey.requirement
 
-## 需求
+## V1.3
 
-### [Me - 我的页面](https://github.com/bookey-dev/bookey.requirement/issues/1)
-### [Collection - 书单](https://github.com/bookey-dev/bookey.requirement/issues/2)
+
+### Collections - 书单
+
+- [ ] 首页 - 新增推荐书单列表
+- [ ] 书单页 - 收藏
+
+### Library - 收藏
+
+- [ ] 每本书的阅读进度
