@@ -1,12 +1,14 @@
 # bookey.requirement
 
-## V1.3
+## V1.4
 
+### Me - 我的
+- [ ] 基础信息
+- [ ] 我的书单
 
 ### Collections - 书单
-
-- [ ] 首页 - 新增推荐书单列表
 - [ ] 书单页 - 收藏
+- [ ] 免费书单 - LOGO 水印
 
 ### Library - 收藏
 
