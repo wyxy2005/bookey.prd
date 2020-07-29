@@ -2,7 +2,8 @@
 
 ## 按功能
 
-- Collections - 书单
+- [Collections - 书单](issues/9)
+- [LearningPath - 学习计划](issues/7)
 
 ## 按页面
 
