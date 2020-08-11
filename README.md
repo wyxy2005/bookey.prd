@@ -2,7 +2,7 @@
 
 ## [需求面版](https://github.com/bookey-dev/bookey.requirement/projects/5)
 
-## [版本面版](https://github.com/bookey-dev/bookey.requirement/projects/5)
+## [版本面版](https://github.com/bookey-dev/bookey.requirement/projects/1)
 
 
 ## 规范
