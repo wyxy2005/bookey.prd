@@ -9,9 +9,9 @@
 
 ### 需求 `issues` 命名
 
-- 功能：`feat-[name]-[功能名]`
-- 页面：`page-[name]-[页面名]`
-- 更新：`update-[name]-[功能名/页面]`
+- 功能：`Feat - [name] - [功能名]`
+- 页面：`Page - [name] - [页面名]`
+- 更新：`Update - [name] - [功能名/页面]`
 
 
 
