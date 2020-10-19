@@ -1,4 +1,4 @@
-## todo
+## 删除步骤
 
 - [web admin](http://os.bookey.app/sys/User)
 - [cognito](https://us-west-2.console.aws.amazon.com/cognito/users/?region=us-west-2#/pool/us-west-2_0mxrJZKGN/users?_k=i2lzey)
