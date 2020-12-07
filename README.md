@@ -1,12 +1,12 @@
-# bookey.requirement
+# bookey
 
 ## 看板
 
 ### [每周计划](https://github.com/bookey-dev/bookey.requirement/projects/6)
 
-### [需求列表](https://github.com/bookey-dev/bookey.requirement/projects/5)
-
 ### [版本规划](https://github.com/bookey-dev/bookey.requirement/projects/1)
+
+### [需求列表](https://github.com/bookey-dev/bookey.requirement/projects/5)
 
 ### BUG
 
