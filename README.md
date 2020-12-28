@@ -22,9 +22,12 @@
 
 ### 需求 `issues` 命名
 
-- 功能：`Feat - [Features Name] - [功能名]`
-- 页面：`Page - [Page Name] - [页面名]`
-- 更新：`Update - [Features/Page Name] - [功能名/页面]`
-
+- 功能：`Feat - [需求]`
+- 修复、优化：`Fix - [需求]`
+- 文案、文档：`Docs - [需求]`
+- 样式、UI：`Style - [需求]`
+- 重构、变更：`Refactor - [需求]`
+- 测试：`Test - [需求]`
+- 其他：`Chore - [需求]`
 
 
