@@ -6,7 +6,7 @@
 
 ### [需求列表](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+project%3Abookey-dev%2Fbookey.requirement%2F5)
 
-### [版本规划](https://github.com/bookey-dev/bookey.requirement/milestones?direction=desc&sort=title&state=open)
+### [版本规划](https://github.com/bookey-dev/bookey.requirement/projects)
 
 - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/7)
 - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/8)
