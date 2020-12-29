@@ -8,6 +8,10 @@
 
 ### [版本规划](https://github.com/bookey-dev/bookey.requirement/milestones?direction=desc&sort=title&state=open)
 
+- [v1.8](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+project%3Abookey-dev%2Fbookey.requirement%2F6+project%3Abookey-dev%2Fbookey.requirement%2F5+milestone%3Av1.8)
+- [v1.7](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+project%3Abookey-dev%2Fbookey.requirement%2F6+project%3Abookey-dev%2Fbookey.requirement%2F5+milestone%3Av1.7)
+- [v1.7](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+project%3Abookey-dev%2Fbookey.requirement%2F6+project%3Abookey-dev%2Fbookey.requirement%2F5+milestone%3Av1.6)
+
 ### BUG
 
 - [IOS](https://github.com/bookey-dev/bookey.bug/projects/1)
