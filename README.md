@@ -8,8 +8,8 @@
 
 ### [版本规划](https://github.com/bookey-dev/bookey.requirement/projects)
 
-- [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/7)
-- [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/8)
+- [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
+- [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
 
 ### BUG
 
