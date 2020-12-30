@@ -38,7 +38,7 @@
 - `Test - [需求]` - 测试
 - `Chore - [需求]` - 其他、删除
 
-### 需求内容规范
+### 需求 `issues` 内容
 
 ```md
 ## 需求
@@ -61,9 +61,6 @@ UI | 后端 | 前端
 
 ### API
 
-- GET [user/me](https://dev.bookey.app/:8081/swagger-ui.html#/user-controller)
-  - `a`: 描述 a
-- PATCH [user/{id}](https://dev.bookey.app/swagger-ui.html#/user-controller)
-  - `a`: 描述 a
+?
 ```
 
