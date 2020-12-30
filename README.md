@@ -11,10 +11,10 @@
 - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
 - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
 
-### [发版记录](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+release+-) - [流程](https://github.com/bookey-dev/bookey.requirement/blob/master/Releases-Specification.md)
+### 发版记录
 
-- [IOS](https://github.com/bookey-dev/bookey.requirement/issues/16)
-- [Android](https://github.com/bookey-dev/bookey.requirement/issues/65)
+- [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AIOS)
+- [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AAndroid+)
 
 ### BUG
 
@@ -28,7 +28,7 @@
 
 ## 规范 
 
-### Issues 创建模板
+### Issues
 
 #### 新功能、功能变更、文案调整、界面调整、BUG
 
