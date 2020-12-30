@@ -38,4 +38,32 @@
 - `Test - [需求]` - 测试
 - `Chore - [需求]` - 其他、删除
 
+### 需求内容规范
+
+```md
+## 需求
+
+### 描述
+1. 调整 - 功能1
+2. 移除 - 功能1
+3. 新增 - 功能1
+
+### 备注
+?
+
+## 评估
+
+UI | 后端 | 前端
+------------ | ------------- | -------------
+1 day | 1 day | 1 day
+
+## 文档
+
+### API
+
+- GET [user/me](https://dev.bookey.app/:8081/swagger-ui.html#/user-controller)
+  - `a`: 描述 a
+- PATCH [user/{id}](https://dev.bookey.app/swagger-ui.html#/user-controller)
+  - `a`: 描述 a
+```
 
