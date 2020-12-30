@@ -25,10 +25,11 @@
 
     ---
     ```
-- 更新到对应的 `Issues` 
 
-   - [IOS](https://github.com/bookey-dev/bookey.requirement/issues/16) 
-   - [Android](https://github.com/bookey-dev/bookey.requirement/issues/65)
+- 更新到对应的 `Issues`
+
+  - [IOS](https://github.com/bookey-dev/bookey.requirement/issues/16) 
+  - [Android](https://github.com/bookey-dev/bookey.requirement/issues/65)
 
 ## 2. 自测
 
@@ -39,14 +40,17 @@
 ## 5. 发布正式版
 
 1. 默认文案
-```md
+
+```text
 Thanks for using Bookey!  We update the App every week to improve your experience.  
 
 Send us feedback, suggestions, and ideas to support@bookey.app
 We'll get in touch with you soon. What do you want to see in our app? Tell us!
 ```
-2. 更新文案
-```
+
+1. 更新文案
+
+```text
 Thanks for using Bookey!  We update the App every week to improve your experience.  
 
 xxxxxx
