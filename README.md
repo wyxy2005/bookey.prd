@@ -1,30 +1,40 @@
 # Bookey
 
-## 文档
+## 看板
 
-### 看板
-
-#### [每周计划](https://github.com/bookey-dev/bookey.requirement/projects/6)
+### [每周计划](https://github.com/bookey-dev/bookey.requirement/projects/6)
 
 - [本周](https://github.com/bookey-dev/bookey.requirement/projects/6#column-11982481)
 - [历史](https://github.com/bookey-dev/bookey.requirement/projects/6#column-12263650)
 
-#### [版本规划](https://github.com/bookey-dev/bookey.requirement/projects)
+### [版本规划](https://github.com/bookey-dev/bookey.requirement/projects)
 
 - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
 - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
 
-#### 发版记录
+### 发版记录
 
 - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AIOS)
 - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AAndroid+)
 
-#### BUG
+### BUG
 
 - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
 - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
 
----
+## 文档
+
+### API
+
+- [user](https://dev.bookey.app:8081/swagger-ui.html)
+- [book](https://dev.bookey.app:8082/swagger-ui.html)
+- [third party](https://dev.bookey.app:8083/swagger-ui.html)
+
+### Other
+
+- [Analytics](https://github.com/bookey-dev/bookey.docs/wiki/Analytics)
+- [DeepLink](https://github.com/bookey-dev/bookey.docs/wiki/DeepLink)
+- [Pinpoint](https://github.com/bookey-dev/bookey.docs/wiki/Pinpoint)
 
 ## 规范
 
