@@ -57,10 +57,12 @@
       - refator: 重构1
       - chore: 其他1
 
-      进度
+      文案
 
-      - [ ] 自测通过
-      - [ ] 测试通过
-      - [ ] `UI` 通过
-      - [ ] 正式版提审
+      ```text
+      Thanks for using Bookey!  We update the App every week to improve your experience.  
+
+      Send us feedback, suggestions, and ideas to support@bookey.app
+      We'll get in touch with you soon. What do you want to see in our app? Tell us!
+      ```
       ```
