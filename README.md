@@ -23,18 +23,24 @@
 - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
 
 ## 文档
-
-### API
+### 开发 API
 
 - [user](https://dev.bookey.app:8081/swagger-ui.html)
 - [book](https://dev.bookey.app:8082/swagger-ui.html)
 - [third party](https://dev.bookey.app:8083/swagger-ui.html)
 
-### Other
+### 开发规范
 
 - [Analytics](https://github.com/bookey-dev/bookey.docs/wiki/Analytics)
 - [DeepLink](https://github.com/bookey-dev/bookey.docs/wiki/DeepLink)
 - [Pinpoint](https://github.com/bookey-dev/bookey.docs/wiki/Pinpoint)
+
+### 常用链接
+
+- [蓝湖](https://lanhuapp.com/web/#/item?tid=5a7e615e-5e48-4932-8c33-c7e5075107ea)
+- [Firebase 控制台](https://console.firebase.google.com/project/helpful-topic-261709/overview)
+- [Branch 控制台](https://dashboard.branch.io)
+- [Cognito 控制台](https://us-west-2.console.aws.amazon.com/cognito/users/?region=us-west-2#)
 
 ## 规范
 
@@ -88,9 +94,9 @@
 
 - 默认文案
 
-    ```text
-    Thanks for using Bookey!  We update the App every week to improve your experience.  
+  ```text
+  Thanks for using Bookey!  We update the App every week to improve your experience.  
 
-    Send us feedback, suggestions, and ideas to support@bookey.app
-    We'll get in touch with you soon. What do you want to see in our app? Tell us!
-    ```
+  Send us feedback, suggestions, and ideas to support@bookey.app
+  We'll get in touch with you soon. What do you want to see in our app? Tell us!
+  ```
