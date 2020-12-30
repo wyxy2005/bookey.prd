@@ -11,6 +11,11 @@
 - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
 - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
 
+### [发版记录](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+release+-)
+
+- [IOS](https://github.com/bookey-dev/bookey.requirement/issues/16)
+- [Android](https://github.com/bookey-dev/bookey.requirement/issues/65)
+
 ### BUG
 
 - [IOS](https://github.com/bookey-dev/bookey.bug/projects/1)
