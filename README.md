@@ -28,9 +28,7 @@
 
 ## 规范 
 
-### Issues
-
-#### 新功能、功能变更、文案调整、界面调整、BUG
+### 需求 - [Create](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
 命名：`需求简单描述`
 
@@ -57,10 +55,9 @@
 
 ???
 
-
 ```
 
-### 版本发布
+### 版本发布 - [Create](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
 命名：`v1.7.101(xxx)`
 
