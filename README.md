@@ -45,7 +45,7 @@
       ```
 
 - 发版记录 - [Create](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
-   - 命名：`v1.7.101(xxx)`
+   - 命名：`v1.x.xxxx(xxx)`
    - 内容：
       ```text
       描述
