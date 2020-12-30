@@ -47,22 +47,24 @@
 - 发版记录 - [Create](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
    - 命名：`v1.7.101(xxx)`
    - 内容：
-      ```md
-        描述
+      ```text
+      描述
 
-        - feat: 功能1
-        - fix: 修复1
-        - style: 样式调整1
-        - docs: 文案调整1
-        - refator: 重构1
-        - chore: 其他1
+      - feat: 功能1
+      - fix: 修复1
+      - style: 样式调整1
+      - docs: 文案调整1
+      - refator: 重构1
+      - chore: 其他1
 
-        文案
+      文案
 
-        ```text
-        Thanks for using Bookey!  We update the App every week to improve your experience.  
-
-        Send us feedback, suggestions, and ideas to support@bookey.app
-        We'll get in touch with you soon. What do you want to see in our app? Tell us!
-        ```
+      ?
       ```
+   - 默认文案
+     ```text
+     Thanks for using Bookey!  We update the App every week to improve your experience.  
+
+     Send us feedback, suggestions, and ideas to support@bookey.app
+     We'll get in touch with you soon. What do you want to see in our app? Tell us!
+     ```
