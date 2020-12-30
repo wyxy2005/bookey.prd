@@ -37,3 +37,21 @@
 ## 4. UI 审查（Hannah）
 
 ## 5. 发布正式版
+
+1. 默认文案
+```md
+Thanks for using Bookey!  We update the App every week to improve your experience.  
+
+Send us feedback, suggestions, and ideas to support@bookey.app
+We'll get in touch with you soon. What do you want to see in our app? Tell us!
+```
+2. 更新文案
+```
+Thanks for using Bookey!  We update the App every week to improve your experience.  
+
+xxxxxx
+xxxxxx
+
+Send us feedback, suggestions, and ideas to support@bookey.app
+We'll get in touch with you soon. What do you want to see in our app? Tell us!
+```
