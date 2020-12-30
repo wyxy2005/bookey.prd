@@ -2,15 +2,15 @@
 
 ### 看板
 
-- [每周计划](https://github.com/bookey-dev/bookey.requirement/projects/6)
-- [需求列表](https://github.com/bookey-dev/bookey.requirement/projects/5)
-- [版本规划](https://github.com/bookey-dev/bookey.requirement/projects)
+#### [每周计划](https://github.com/bookey-dev/bookey.requirement/projects/6)
+#### [需求列表](https://github.com/bookey-dev/bookey.requirement/projects/5)
+#### [版本规划](https://github.com/bookey-dev/bookey.requirement/projects)
   - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
   - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
-- 发版记录
+#### 发版记录
   - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AIOS)
   - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AAndroid+)
-- BUG 列表
+#### BUG 列表
   - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
   - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
 
