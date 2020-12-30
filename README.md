@@ -4,7 +4,7 @@
 
 ### [每周计划](https://github.com/bookey-dev/bookey.requirement/projects/6)
 
-### [需求列表](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+project%3Abookey-dev%2Fbookey.requirement%2F5)
+### [需求列表](https://github.com/bookey-dev/bookey.requirement/projects/5)
 
 ### [版本规划](https://github.com/bookey-dev/bookey.requirement/projects)
 
