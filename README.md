@@ -18,55 +18,49 @@
 
 ### 规范 
 
-### 需求 - [Create](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
+- 需求 - [Create](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
+  - 命名：`需求概述`
+  - 内容：
+      ```md
+      ## 需求
 
-命名：`需求简单描述`
+      ### 描述
 
-内容：
+      ???
 
-```md
-## 需求
+      ### 备注
 
-### 描述
+      ???
 
-???
+      ## 评估
 
-### 备注
+       UI | 后端 | 前端
+      --- | ---  | ---
+       ?  |   ?  |  ?
 
-???
+      ## 附件
 
-## 评估
+      ???
 
- UI | 后端 | 前端
---- | ---  | ---
- ?  |   ?  |  ?
+      ```
 
-## 附件
+- 发版记录 - [Create](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
+   - 命名：`v1.7.101(xxx)`
+   - 内容：
+      ```md
+      描述
 
-???
+      - feat: 功能1
+      - fix: 修复1
+      - style: 样式调整1
+      - docs: 文案调整1
+      - refator: 重构1
+      - chore: 其他1
 
-```
+      进度
 
-### 版本发布 - [Create](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
-
-命名：`v1.7.101(xxx)`
-
-内容：
-
-```md
-描述
-
-- feat: 功能1
-- fix: 修复1
-- style: 样式调整1
-- docs: 文案调整1
-- refator: 重构1
-- chore: 其他1
-
-进度
-
-- [ ] 自测通过
-- [ ] 测试通过
-- [ ] `UI` 通过
-- [ ] 正式版提审
-```
+      - [ ] 自测通过
+      - [ ] 测试通过
+      - [ ] `UI` 通过
+      - [ ] 正式版提审
+      ```
