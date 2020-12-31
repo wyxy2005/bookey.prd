@@ -33,7 +33,7 @@
 - 自测通过
   - 将该 `Issue` 打 `Reviewed: SelfTest` 标签
   - 将该 `Issue` Assignees 给 `Hannah960906` 并通知
-    - 无 UI、文案变动时,直接走 [第5步](#5.-发布内测版)
+    - 无 UI、文案变动时,直接走 [第5步](#5-发布内测版)
 
 ### 4. UI 审查 - @Hannah
 
