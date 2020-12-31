@@ -8,7 +8,7 @@
 1. 创建 `Issue` - [Create Link](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
    - 命名：`v1.x.xxxx(xxx)`
    - 标签：`Releases: IOS` 或 `Releases: Android`
-   - 内容：
+   - 内容模板（复制粘贴）：
 
       ```md
       描述
@@ -25,7 +25,7 @@
       ?
 
       链接
-      
+
       - [IOS - TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
       - [Android - Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
       ```
