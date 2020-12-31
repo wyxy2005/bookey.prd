@@ -23,6 +23,11 @@
       文案
 
       ?
+
+      链接
+      
+      - [IOS - TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
+      - [Android - Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
       ```
 
 1. 自测
