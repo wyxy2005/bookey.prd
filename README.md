@@ -12,7 +12,7 @@
 - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
 - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
 
-### 发版记录
+### 发版记录 - [流程](docs/process-specification.md#版本发布)
 
 - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AIOS)
 - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AAndroid+)
@@ -73,33 +73,4 @@
 
   ???
 
-  ```
-
-#### 创建：版本记录 - [Create](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
-
-- 命名：`v1.x.xxxx(xxx)`
-- 内容：
-
-  ```md
-  描述
-
-  - feat: 功能1
-  - fix: 修复1
-  - style: 样式调整1
-  - docs: 文案调整1
-  - refator: 重构1
-  - chore: 其他1
-
-  文案
-
-  ?
-  ```
-
-- 默认文案
-
-  ```text
-  Thanks for using Bookey!  We update the App every week to improve your experience.  
-
-  Send us feedback, suggestions, and ideas to support@bookey.app
-  We'll get in touch with you soon. What do you want to see in our app? Tell us!
   ```
