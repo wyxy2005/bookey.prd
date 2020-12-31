@@ -3,8 +3,8 @@
 ## 版本发布
 
 1. 发布测试版
-   - [IOS - TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
-   - [Android - Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
+   - [IOS - 蒲公英](https://www.pgyer.com/o9So)
+   - Android - 蒲公英
 1. 创建 `Issue` - [Create Link](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
    - 命名：`v1.x.xxxx(xxx)`
    - 标签：`Releases: IOS` 或 `Releases: Android`
@@ -19,28 +19,13 @@
       - docs: 文案调整1
       - refator: 重构1
       - chore: 其他1
-
-      文案
-
-      ?
-
-      链接
-
-      - [IOS - TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
-      - [Android - Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
       ```
 
 1. 自测
    - 自测通过
      - 将该 `Issue` 打 `Reviewed: SelfTest` 标签
-     - 将该 `Issue` Assignees 给 `Johnsonkk2020` 并通知
-1. 提测 - @Johnson
-   - 测试内容
-      - 发版内容
-      - 订阅
-   - 测试通过
-      - 对该 `Issue` 打 `Reviewed: Test` 标签
-      - 将该 `Issue` Assignees 给 `Hannah960906` 并通知
+     - 将该 `Issue` Assignees 给 `Hannah960906` 并通知
+
 1. UI 审查 - @Hannah
    - 审查内容
       - UI
@@ -48,6 +33,22 @@
    - 审查通过
       - 对该 `Issue` 打 `Reviewed: UI` 标签
       - 将该 `Issue` Assignees 给 `Coolll` 或 `dyz930509` 并通知
+   - 审查不通过 - **重走流程**
+      - 将问题反馈评论到该 `Issue`
+      - 将该 `Issue` Assignees 给 `Coolll` 或 `dyz930509` 并通知
+
+1. 发布内测版 - 并将该 `Issue` Assignees 给 `Johnsonkk2020` 并通知
+   - [IOS - TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
+   - [Android - Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
+
+1. 提测 - @Johnson
+   - 测试内容
+      - 发版内容
+      - 核心功能
+   - 测试通过
+      - 对该 `Issue` 打 `Reviewed: Test` 标签
+      - 将该 `Issue` Assignees 给 `Coolll` 或 `dyz930509` 并通知
+
 1. 推正式版 - 并 Close 该 `Issue`
    - 版本说明（默认）
 
