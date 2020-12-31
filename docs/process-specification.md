@@ -43,7 +43,7 @@
    - 审查通过
       - 对该 `Issue` 打 `Reviewed: UI` 标签
       - 将该 `Issue` Assignees 给 `Coolll` 或 `dyz930509` 并通知
-1. 推正式版
+1. 推正式版 - 并 Close 该 `Issue`
    - 版本说明（默认）
 
       ```text
