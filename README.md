@@ -4,7 +4,9 @@
 
 ### 个人面版
 
-- [Issues - assigned](https://github.com/issues/assigned)
+- [Issues - 被指派的](https://github.com/issues/assigned)
+- [Issues - 被@提及的](https://github.com/issues/mentioned)
+- [Issues - 自己创建的](https://github.com/issues)
 
 ### [每周计划](https://github.com/bookey-dev/bookey.requirement/projects/6)
 
