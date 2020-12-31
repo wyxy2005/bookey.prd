@@ -2,6 +2,10 @@
 
 ## 看板
 
+### 个人面版
+
+- [Issues - assigned](https://github.com/issues/assigned)
+
 ### [每周计划](https://github.com/bookey-dev/bookey.requirement/projects/6)
 
 - [本周](https://github.com/bookey-dev/bookey.requirement/projects/6#column-11982481)
