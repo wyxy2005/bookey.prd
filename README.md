@@ -10,9 +10,9 @@
 
 ### [需求进度](https://github.com/bookey-dev/bookey.requirement/projects/6)
 
+- [每周任务](https://github.com/bookey-dev/bookey.requirement/projects/6#column-12263650)
 - [未安排](https://github.com/bookey-dev/bookey.requirement/projects/6#column-11982480)
 - [进行中](https://github.com/bookey-dev/bookey.requirement/projects/6#column-11982481)
-- [每周任务](https://github.com/bookey-dev/bookey.requirement/projects/6#column-12263650)
 
 ### [版本规划](https://github.com/bookey-dev/bookey.requirement/projects)
 
