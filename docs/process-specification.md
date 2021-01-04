@@ -2,7 +2,6 @@
 
 - [流程规范](#流程规范)
   - [版本发布](#版本发布)
-    - [创建 `Issue` - Create Link](#创建-issue---create-link)
     - [发测试版/内测版](#发测试版内测版)
     - [UI 审查 - @Hannah](#ui-审查---hannah)
     - [测试 - @Johnson](#测试---johnson)
@@ -11,33 +10,32 @@
 
 ## 版本发布
 
-### 创建 `Issue` - [Create Link](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
-
-- 命名：`v1.x.xxxx(xxx)`
-- 标签：`Releases: IOS` 或 `Releases: Android`
-- 内容模板（复制粘贴）：
-
-   ```md
-   描述
-
-   - feat: 功能1
-   - fix: 修复1
-   - style: 样式调整1
-   - docs: 文案调整1
-   - refator: 重构1
-   - chore: 其他1
-   ```
-
 ### 发测试版/内测版
 
-- 平台
+- 上传
   - 测试版
     - [IOS - 蒲公英](https://www.pgyer.com/o9So)
     - Android - 蒲公英
   - 内测版
     - [IOS - TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
     - [Android - Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
-- 发布完
+- 新建 `Issue` - [新建链接](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
+  - 命名：`v1.x.xxxx(xxx)`
+  - 标签：`Releases: IOS` 或 `Releases: Android`
+  - 内容模板（复制粘贴）：
+
+     ```md
+     描述
+
+     - feat: 功能1
+     - fix: 修复1
+     - style: 样式调整1
+     - docs: 文案调整1
+     - refator: 重构1
+     - chore: 其他1
+     ```
+
+- 通知
   - 将该 `Issue` 微信推给 `Hannah960906`
   - 将该 `Issue` 微信推给 `Johnsonkk2020`
 
