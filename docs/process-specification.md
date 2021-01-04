@@ -3,9 +3,8 @@
 - [流程规范](#流程规范)
   - [版本发布](#版本发布)
     - [创建 `Issue` - Create Link](#创建-issue---create-link)
-    - [发测试版（dev）](#发测试版dev)
+    - [发测试版/内测版](#发测试版内测版)
     - [UI 审查 - @Hannah](#ui-审查---hannah)
-    - [发内测版（prod）](#发内测版prod)
     - [测试 - @Johnson](#测试---johnson)
     - [发正式版](#发正式版)
     - [文案模板](#文案模板)
@@ -29,12 +28,15 @@
    - chore: 其他1
    ```
 
-### 发测试版（dev）
+### 发测试版/内测版
 
-- 平台链接
-  - [IOS - 蒲公英](https://www.pgyer.com/o9So)
-  - Android - 蒲公英
-
+- 平台
+  - 测试版
+    - [IOS - 蒲公英](https://www.pgyer.com/o9So)
+    - Android - 蒲公英
+  - 内测版
+    - [IOS - TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
+    - [Android - Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
 - 发布完
   - 将该 `Issue` 微信推给 `Hannah960906`
   - 将该 `Issue` 微信推给 `Johnsonkk2020`
@@ -50,15 +52,6 @@
 - 审查不通过 - **重走流程**
   - 将问题反馈评论到该 `Issue`
   - 将该 `Issue` 微信推给 `Coolll` 或 `dyz930509` 并通知
-
-### 发内测版（prod）
-
-- 平台链接
-  - [IOS - TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
-  - [Android - Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
-
-- 发布完
-  - 将该 `Issue` 微信推给 `Johnsonkk2020`
 
 ### 测试 - @Johnson
 
