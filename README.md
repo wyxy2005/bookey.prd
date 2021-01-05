@@ -19,10 +19,16 @@
 - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
 - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
 
-### 发版记录 - [流程](docs/process-specification.md#版本发布)
+### 发版记录 - [流程规范](docs/process-specification.md#版本发布)
 
 - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AIOS)
+  - [测试版](https://www.pgyer.com/o9So) - `0910`
+  - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
+  - [App Store](https://apps.apple.com/cn/app/id1490069864)
 - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AAndroid+)
+  - [测试版](https://www.pgyer.com/C5re) - `2021`
+  - [Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
+  - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
 
 ### BUG
 
