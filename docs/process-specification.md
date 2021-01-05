@@ -14,8 +14,8 @@
 
 - 上传
   - 测试版
-    - [IOS - 蒲公英](https://www.pgyer.com/o9So)
-    - Android - 蒲公英
+    - [IOS - 蒲公英](https://www.pgyer.com/o9So) - `0910`
+    - [Android - 蒲公英](https://www.pgyer.com/C5re) - `2021`
   - 内测版
     - [IOS - TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
     - [Android - Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
