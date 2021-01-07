@@ -8,11 +8,11 @@
 - [Issues - 被@提及的](https://github.com/issues/mentioned)
 - [Issues - 自己创建的](https://github.com/issues)
 
-### [需求进度](https://github.com/bookey-dev/bookey.requirement/projects/6)
+### [需求](https://github.com/bookey-dev/bookey.requirement/issues) - [创建模板](#创建新需求---create)
 
+- [进行中](https://github.com/bookey-dev/bookey.requirement/projects/6#column-11982481)
 - [每周任务](https://github.com/bookey-dev/bookey.requirement/projects/6#column-12263650)
 - [未安排](https://github.com/bookey-dev/bookey.requirement/projects/6#column-11982480)
-- [进行中](https://github.com/bookey-dev/bookey.requirement/projects/6#column-11982481)
 
 ### [版本规划](https://github.com/bookey-dev/bookey.requirement/projects)
 
