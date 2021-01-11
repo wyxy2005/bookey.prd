@@ -6,47 +6,25 @@
 
 ### 需求 - [Create](#新需求)
 
-[未规划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone)
-
-当前
-
 - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
-
-
-未来
-
 - [v1.8](https://github.com/bookey-dev/bookey.requirement/projects/13)
-
-历史
-
 - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
+
+- [未规划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone)
 
 ### 任务 - [Create](#新任务)
 
-UI
+- [UI](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+UI%22) - [Done](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Done%3A+UI%22)
 
-- [进行中](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+UI%22)
-- [已完成](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Done%3A+UI%22)
+- [API](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+API%22)
 
-后端
+- [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+IOS%22)
 
-- [进行中](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+API%22)
-- [已完成](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Done%3A+API%22)
+- [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+Android%22)
 
-IOS
-
-- [进行中](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+IOS%22)
-- [已完成](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Done%3A+IOS%22)
-
-Android
-
-- [进行中](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+Android%22)
-- [已完成](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Done%3A+Android%22)
-
-BUG
-
-- [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
-- [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+Android%22)
+- BUG
+  - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
+  - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+Android%22)
 
 ### 发版记录 - [Create](#新版本) - [流程规范](docs/process-specification.md#版本发布)
 
