@@ -11,10 +11,10 @@
 
 ### 任务
 
-- [UI](https://github.com/bookey-dev/bookey.requirement/projects/15#column-12403736)
-- [API](https://github.com/bookey-dev/bookey.requirement/projects/15#column-12403741)
-- [IOS](https://github.com/bookey-dev/bookey.requirement/projects/15#column-12403742)
-- [Android](https://github.com/bookey-dev/bookey.requirement/projects/15#column-12403744)
+- [UI](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+UI%22)
+- [API](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+API%22)
+- [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+IOS%22)
+- [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+Android%22)
 
 - BUG
   - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
