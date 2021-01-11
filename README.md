@@ -9,7 +9,7 @@
 - [被@提及的](https://github.com/issues/mentioned)
 - [自己创建的](https://github.com/issues)
 
-### [任务](https://github.com/bookey-dev/bookey.requirement/projects/15)
+### 任务
 
 - [UI](https://github.com/bookey-dev/bookey.requirement/projects/15#column-12403736)
 - [API](https://github.com/bookey-dev/bookey.requirement/projects/15#column-12403741)
