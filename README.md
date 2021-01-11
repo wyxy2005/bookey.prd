@@ -2,20 +2,16 @@
 
 ## 看板
 
-### 个人
-
-- [周计划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%E5%91%A8%E8%AE%A1%E5%88%92)
-- [被指派的](https://github.com/issues/assigned)
-- [被@提及的](https://github.com/issues/mentioned)
-- [自己创建的](https://github.com/issues)
+[周计划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%E5%91%A8%E8%AE%A1%E5%88%92)
 
 ### 需求 - [Create](#新需求)
 
-[未打标签的](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+no%3Alabel)
+[未规划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+no%3Alabel)
 
 当前
 
 - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
+
 
 未来
 
@@ -25,7 +21,7 @@
 
 - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
 
-### 任务
+### 任务 - [Create](#新任务)
 
 UI
 
@@ -77,11 +73,11 @@ BUG
 - [DeepLink](https://github.com/bookey-dev/bookey.docs/wiki/DeepLink)
 - [Pinpoint](https://github.com/bookey-dev/bookey.docs/wiki/Pinpoint)
 
-### 三方链接
+### 链接
 
 - [企业邮箱](https://exmail.qq.com/login)
-- [Bookey 开发后台](https://dev.bookey.app/sys/Home)
 - [UI 蓝湖](https://lanhuapp.com/web/#/item?tid=5a7e615e-5e48-4932-8c33-c7e5075107ea)
+- [Bookey 开发后台](https://dev.bookey.app/sys/Home)
 - [Firebase 控制台](https://console.firebase.google.com/project/helpful-topic-261709/overview)
 - [Branch 控制台](https://dashboard.branch.io)
 - [Cognito 控制台](https://us-west-2.console.aws.amazon.com/cognito/users/?region=us-west-2#)
@@ -91,7 +87,9 @@ BUG
 ### [新需求](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
 - 命名：`需求概述`
-- 内容：
+- 需求标签：`新需求`、`功能优化`
+- 任务标签：`Task: UI`、`Task: API`、`Task: IOS`、`Task: Android`
+- 内容模板（复制粘贴）：
 
   ```md
   ## 需求
