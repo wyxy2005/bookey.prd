@@ -6,7 +6,7 @@
 
 ### 需求 - [Create](#新需求)
 
-[未规划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+no%3Alabel)
+[未规划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone)
 
 当前
 
@@ -87,8 +87,9 @@ BUG
 ### [新需求](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
 - 命名：`需求概述`
-- 需求标签：`新需求`、`功能优化`
+- 需求标签：`新需求`、`功能优化`...
 - 任务标签：`Task: UI`、`Task: API`、`Task: IOS`、`Task: Android`
+- 里程碑（milestone）：`v1.7`、`v1.8`...
 - 内容模板（复制粘贴）：
 
   ```md
