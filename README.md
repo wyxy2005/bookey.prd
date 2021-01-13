@@ -34,16 +34,10 @@
   - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
   - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+Android%22)
 
-### 发版记录 - [Create](#新版本) - [流程规范](docs/process-specification.md#版本发布)
+### APP 版本记录 - [Create](#新版本) - [流程](docs/process-specification.md#版本发布)
 
 - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AIOS)
-  - [测试版](https://www.pgyer.com/o9So) - `0910`
-  - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
-  - [App Store](https://apps.apple.com/cn/app/id1490069864)
 - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AAndroid+)
-  - [测试版](https://www.pgyer.com/C5re) - `2021`
-  - [Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
-  - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
 
 ## 文档
 
@@ -67,6 +61,17 @@
 - [Firebase 控制台](https://console.firebase.google.com/project/helpful-topic-261709/overview)
 - [Branch 控制台](https://dashboard.branch.io)
 - [Cognito 控制台](https://us-west-2.console.aws.amazon.com/cognito/users/?region=us-west-2#)
+
+#### Bookey APP
+
+- IOS
+  - [测试版](https://www.pgyer.com/o9So) - `0910`
+  - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
+  - [App Store](https://apps.apple.com/cn/app/id1490069864)
+- Android
+  - [测试版](https://www.pgyer.com/C5re) - `2021`
+  - [Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
+  - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
 
 ## 模板
 
