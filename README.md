@@ -75,7 +75,7 @@
 
 ## 模板
 
-### [新需求](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
+### [创建新需求](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
 - 命名：`需求概述`
 - 需求标签：`新需求`、`功能优化`...
@@ -96,14 +96,14 @@
 
   ## 任务
 
-  - [] UI
-  - [] API
-  - [] IOS
-  - [] Android
+  - [ ] UI
+  - [ ] API
+  - [ ] IOS
+  - [ ] Android
 
   ```
 
-### [新版本](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
+### [发布新版本](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
 - 命名：`v1.x.xxxx(xxx)`
 - 标签：`Releases: IOS` 或 `Releases: Android`
