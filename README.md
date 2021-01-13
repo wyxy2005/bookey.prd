@@ -4,7 +4,7 @@
 
 [周计划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%E5%91%A8%E8%AE%A1%E5%88%92)
 
-### 需求 - [Create](#新需求)
+### 需求 - [Create](#发布新需求)
 
 - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
 - [v1.8](https://github.com/bookey-dev/bookey.requirement/projects/13)
@@ -12,7 +12,7 @@
 
 - [未规划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone)
 
-### 任务 - [Create](#新任务)
+### 任务 - [Create](#创建新任务)
 
 - UI
   - [Task](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+UI%22+-label%3A%22Done%3A+UI%22)
@@ -34,7 +34,7 @@
   - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
   - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+Android%22)
 
-### 版本 - [Create](#新版本) - [流程](docs/process-specification.md#版本发布)
+### 版本 - [Create](#发布新版本) - [流程](docs/process-specification.md#版本发布)
 
 - [IOS 发版记录](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AIOS)
 - [Android 发版记录](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AAndroid+)
@@ -81,6 +81,32 @@
 - 需求标签：`新需求`、`功能优化`...
 - 任务标签：`Task: UI`、`Task: API`、`Task: IOS`、`Task: Android`
 - 里程碑（milestone）：`v1.7`、`v1.8`...
+- 内容模板（复制粘贴）：
+
+  ```md
+  ## 需求
+
+  ### 描述
+
+  ???
+
+  ### 备注
+
+  ???
+
+  ## 任务
+
+  - [ ] UI
+  - [ ] API
+  - [ ] IOS
+  - [ ] Android
+
+  ```
+
+### [创建新任务](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
+
+- 命名：`任务概述`
+- 任务标签：`Task: UI`、`Task: API`、`Task: IOS`、`Task: Android`
 - 内容模板（复制粘贴）：
 
   ```md
