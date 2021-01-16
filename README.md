@@ -101,11 +101,14 @@
 ### [创建新任务](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
 - 命名：`任务概述`
-- 任务标签：`Task: UI`、`Task: API`、`Task: IOS`、`Task: Android`
+- 任务标签：`任务`
 - 内容模板（复制粘贴）：
 
   ```md
-  ## 需求
+  
+  `#xxx` - 需求 ID
+  
+  ## 任务
 
   ### 描述
 
@@ -115,12 +118,6 @@
 
   ???
 
-  ## 任务
-
-  - [ ] UI
-  - [ ] API
-  - [ ] IOS
-  - [ ] Android
 
   ```
 
