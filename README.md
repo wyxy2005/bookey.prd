@@ -73,8 +73,7 @@
 ### [发布新需求](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
 - 命名：`需求概述`
-- 需求标签：`新需求`、`功能优化`...
-- 任务标签：`Task: UI`、`Task: API`、`Task: IOS`、`Task: Android`
+- 需求标签：`新需求`、`功能优化`、`BUG`
 - 里程碑（milestone）：`v1.7`、`v1.8`...
 - 内容模板（复制粘贴）：
 
@@ -100,24 +99,13 @@
 
 ### [创建新任务](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
-- 命名：`任务概述`
+- 命名：`UI/API/IOS/Android+需求名`
 - 任务标签：`任务`
 - 内容模板（复制粘贴）：
 
   ```md
   
-  `#xxx` - 需求 ID
-  
-  ## 任务
-
-  ### 描述
-
-  ???
-
-  ### 备注
-
-  ???
-
+  需求 ID: `#0` 
 
   ```
 
