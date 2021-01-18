@@ -10,7 +10,7 @@
 - [v1.8](https://github.com/bookey-dev/bookey.requirement/projects/13)
 - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
 
-- [未规划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone)
+- [未规划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone+-label%3A%E9%95%BF%E6%9C%9F%E4%BB%BB%E5%8A%A1+-label%3A%E6%97%A0%E6%95%88+-label%3A%E4%BB%BB%E5%8A%A1+-label%3A%22Bug%3A+Android%22+-label%3A%22Bug%3A+IOS%22+-label%3A%E5%91%A8%E8%AE%A1%E5%88%92+-label%3AReleases%EF%BC%9AAndroid+-label%3AReleases%EF%BC%9AIOS)
 
 ### 任务 - [创建新任务](#创建新任务)
 
