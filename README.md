@@ -14,15 +14,15 @@
 
 ### 任务 - [创建新任务](#创建新任务)
 
-- [Hannah](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Hannah960906)
+- [UI: Hannah](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Hannah960906)
 
-- [Kim](https://github.com/bookey-dev/bookey.requirement/issues/assigned/itwangxiang)
+- [API: Kim](https://github.com/bookey-dev/bookey.requirement/issues/assigned/itwangxiang)
 
-- [Kayle](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Coolll)
+- [IOS: Kayle](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Coolll)
 
-- [Mason](https://github.com/bookey-dev/bookey.requirement/issues/assigned/dyz930509)
+- [Android: Mason](https://github.com/bookey-dev/bookey.requirement/issues/assigned/dyz930509)
 
-- [Johnson](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Johnsonkk2020)
+- [Test: Johnson](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Johnsonkk2020)
 
 - BUG
   - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
