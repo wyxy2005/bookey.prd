@@ -14,13 +14,13 @@
 
 ### 任务 - [创建新任务](#创建新任务)
 
-- [UI](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+UI%22)
+- [UI](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Hannah960906)
 
-- [API](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+API%22)
+- [API](https://github.com/bookey-dev/bookey.requirement/issues/assigned/itwangxiang)
 
-- [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+IOS%22)
+- [IOS](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Coolll)
 
-- [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Task%3A+Android%22)
+- [Android](https://github.com/bookey-dev/bookey.requirement/issues/assigned/dyz930509)
 
 - BUG
   - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
