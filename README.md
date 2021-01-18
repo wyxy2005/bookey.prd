@@ -52,12 +52,6 @@
 
 ### 链接
 
-- [企业邮箱](https://exmail.qq.com/login)
-- [UI 蓝湖](https://lanhuapp.com/web/#/item?tid=5a7e615e-5e48-4932-8c33-c7e5075107ea)
-- [Bookey 开发后台](https://dev.bookey.app/sys/Home)
-- [Firebase 控制台](https://console.firebase.google.com/project/helpful-topic-261709/overview)
-- [Branch 控制台](https://dashboard.branch.io)
-- [Cognito 控制台](https://us-west-2.console.aws.amazon.com/cognito/users/?region=us-west-2#)
 - APP 下载链接
   - IOS
     - [测试版](https://www.pgyer.com/o9So) - `0910`
