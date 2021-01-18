@@ -56,17 +56,15 @@
 - [Firebase 控制台](https://console.firebase.google.com/project/helpful-topic-261709/overview)
 - [Branch 控制台](https://dashboard.branch.io)
 - [Cognito 控制台](https://us-west-2.console.aws.amazon.com/cognito/users/?region=us-west-2#)
-
-#### Bookey APP
-
-- IOS
-  - [测试版](https://www.pgyer.com/o9So) - `0910`
-  - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
-  - [App Store](https://apps.apple.com/cn/app/id1490069864)
-- Android
-  - [测试版](https://www.pgyer.com/C5re) - `2021`
-  - [Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
-  - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
+- APP 下载链接
+  - IOS
+    - [测试版](https://www.pgyer.com/o9So) - `0910`
+    - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
+    - [App Store](https://apps.apple.com/cn/app/id1490069864)
+  - Android
+    - [测试版](https://www.pgyer.com/C5re) - `2021`
+    - [Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
+    - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
 
 ## 模板
 
