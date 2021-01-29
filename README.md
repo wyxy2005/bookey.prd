@@ -36,6 +36,40 @@
 
 > [流程](docs/process-specification.md#版本发布)
 
+### 崩溃
+
+### 数据来源
+
+- Android
+  - [Google Play](https://play.google.com/console/developers/8336602248191894610/app/4971990627291724079/vitals/crashes?installedFrom=PLAY_STORE&days=30)
+  - [Firebase Crashlytics](https://console.firebase.google.com/project/helpful-topic-261709/crashlytics/app/android:app.bookey/issues?state=open&time=last-thirty-days&type=crash)
+
+- IOS
+  - [Firebase Crashlytics](https://console.firebase.google.com/project/helpful-topic-261709/crashlytics/app/ios:com.idea.bookey/issues?state=open&time=last-seven-days&type=crash)
+ 
+
+### 关注时间
+
+每天早上或邮件通知
+
+### 崩溃类型
+
+- 按严重程度
+  - 紧急
+  - 非紧急 
+- 按修复时间
+  - 耗时
+  - 非耗时
+
+### 修复要求
+
+- 立即修复
+  - 紧急类崩溃
+  - 非紧急且非耗时类崩溃
+
+- 下个版本修复
+  - 非紧急且耗时类的崩溃
+
 ## 文档
 
 ### API
