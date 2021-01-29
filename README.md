@@ -45,10 +45,10 @@
 - IOS
   - [Firebase Crashlytics](https://console.firebase.google.com/project/helpful-topic-261709/crashlytics/app/ios:com.idea.bookey/issues?state=open&time=last-seven-days&type=crash)
 
-修复记录
+Issues
 
-- [Android](https://github.com/bookey-dev/bookey.requirement/issues/124)
-- [IOS](https://github.com/bookey-dev/bookey.requirement/issues/146)
+- [Android 崩溃处理](https://github.com/bookey-dev/bookey.requirement/issues/124)
+- [IOS 崩溃处理](https://github.com/bookey-dev/bookey.requirement/issues/146)
 
 ## 文档
 
