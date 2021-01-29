@@ -50,7 +50,7 @@
 修复记录
 
 - [Android](https://github.com/bookey-dev/bookey.requirement/issues/124)
-- [Ios](xxx)
+- [IOS](https://github.com/bookey-dev/bookey.requirement/issues/146)
 
 ## 文档
 
