@@ -28,13 +28,11 @@
   - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
   - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+Android%22)
 
-### 版本 - [发布新版本](#发布新版本) 
+### 版本 - [发布新版本](#发布新版本)  - [流程规范](docs/process-specification.md#版本发布)
 
 [IOS 发版记录](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AIOS)
 
 [Android 发版记录](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AAndroid+)
-
-> [流程](docs/process-specification.md#版本发布)
 
 ### 崩溃 
 
