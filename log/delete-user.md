@@ -7,6 +7,14 @@
 
 ## log
 
+20210202
+
+- florin.plesca@remax.ro
+
+```json
+{ "_id" : "Facebook_3715989311770469", "name" : "Florin Plesca", "email" : "florin.plesca@remax.ro", "tried" : false, "avatarPath" : "https://graph.facebook.com/3715989311770469/picture", "invitedNumber" : 0, "premiumDays" : 0, "markCount" : 0, "createdDate" : "20210130164516", "createdDate_ms" : NumberLong("1611996316066"), "payBy" : "none", "purchase_date_ms" : NumberLong(0), "expires_date_ms" : NumberLong(0), "rewarded_ms" : NumberLong(0), "used_rewarded_ms" : NumberLong(0), "trialConvert" : false, "needLogTrialConvertEvent" : false, "isGracePeriod" : false, "commented" : false, "boardingUpdateDate_ms" : NumberLong("1611996368521"), "boardingBookTag" : [ "20200924133459246", "20200924133736433", "20200924134850035" ], "boardingGender" : 1, "boardingReadBookCount" : 2, "isValid" : false, "final_expires_date_ms" : NumberLong(0), "final_valid" : false, "appUseTime" : NumberLong(0), "referees" : [ ], "_class" : "app.bookey.user.domain.User" }
+```
+
 20210201
 
 - ilansheyko2020@gmail.com
