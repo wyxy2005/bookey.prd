@@ -7,6 +7,14 @@
 
 ## log
 
+20210214
+
+- ThuyLyChambers@hotmail.com
+
+```json
+{ "_id" : "dfd7ec56-117c-482d-aef2-58e58d8f1798", "name" : "", "email" : "ThuyLyChambers@hotmail.com", "tried" : false, "avatarPath" : "", "invitedNumber" : 0, "premiumDays" : 0, "markCount" : 0, "createdDate" : "20210210053549", "createdDate_ms" : NumberLong("1612906549264"), "payBy" : "none", "purchase_date_ms" : NumberLong(0), "expires_date_ms" : NumberLong(0), "rewarded_ms" : NumberLong(0), "used_rewarded_ms" : NumberLong(0), "trialConvert" : false, "needLogTrialConvertEvent" : false, "isGracePeriod" : false, "commented" : false, "boardingUpdateDate_ms" : NumberLong("1612906598000"), "boardingBookTag" : [ "20200924134721943", "20200924134850035", "20200924135326713" ], "boardingGender" : 3, "boardingReadBookCount" : 1, "isValid" : false, "final_expires_date_ms" : NumberLong(0), "final_valid" : false, "appUseTime" : NumberLong(86407), "referees" : [ ], "_class" : "app.bookey.user.domain.User" }
+```
+
 20210202
 
 - florin.plesca@remax.ro
