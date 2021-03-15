@@ -20,8 +20,8 @@
 - [Android: Mason](https://github.com/bookey-dev/bookey.requirement/issues/assigned/dyz930509)
 - [Test: Johnson](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Johnsonkk2020)
 
->命名：`任务名`
->打标签：`功能`
+>- 命名：`任务名`
+>- 打标签：`功能`
 
 ### Bug
 
@@ -33,8 +33,8 @@
 - [IOS 发版记录](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20IOS)
 - [Android 发版记录](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20Android)
 
-> - 命名：`v1.x.xxxx(xxx)`
-> - 标签：`Releases: IOS` 或 `Releases: Android`
+>- 命名：`v1.x.xxxx(xxx)`
+>- 打标签：`Releases: IOS` 或 `Releases: Android`
 
 ### 崩溃 
 
