@@ -25,8 +25,8 @@
 - [Test: Johnson](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Johnsonkk2020)
 
 - BUG
-  - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+IOS%22)
-  - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Bug%3A+Android%22)
+  - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22IOS+-+BUG%22)
+  - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Android+-+BUG%22)
 
 ### 版本 - [发布新版本](#发布新版本)  - [流程规范](docs/process-specification.md#版本发布)
 
