@@ -7,6 +7,14 @@
 
 ## log
 
+20210315
+
+- jessie.hc.hon@gmail.com
+
+```json
+{ "_id" : "edb1eb1c-a609-4b5a-aaf2-9cf060e6521d", "name" : "", "email" : "jessie.hc.hon@gmail.com", "avatarPath" : "", "createdDate" : "20210313064851", "createdDate_ms" : NumberLong("1615589331424"), "purchase_date_ms" : NumberLong(0), "expires_date_ms" : NumberLong(0), "final_expires_date_ms" : NumberLong(0), "tried" : false, "payBy" : "none", "autoRenewing" : false, "isGracePeriod" : false, "tried_at_date_ms" : NumberLong(0), "grace_at_date_ms" : NumberLong(0), "trialConvert" : false, "needLogTrialConvertEvent" : false, "rewarded_ms" : NumberLong(0), "used_rewarded_ms" : NumberLong(0), "commented" : false, "markCount" : 0, "boardingUpdateDate_ms" : NumberLong("1615589376000"), "boardingBookTag" : [ "20200924133459246", "20200924134721943", "20200924134811518" ], "boardingGender" : 2, "boardingReadBookCount" : 1, "showGiftDotBadge" : false, "invitedNumber" : 0, "premiumDays" : 0, "_class" : "app.bookey.user.domain.User" }
+```
+
 20210214
 
 - ThuyLyChambers@hotmail.com
