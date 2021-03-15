@@ -30,9 +30,9 @@
 
 ### 版本 - [发布新版本](#发布新版本)  - [流程规范](docs/process-specification.md#版本发布)
 
-[IOS 发版记录](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AIOS)
+[IOS 发版记录](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20IOS)
 
-[Android 发版记录](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aissue+label%3AReleases%EF%BC%9AAndroid+)
+[Android 发版记录](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20Android)
 
 ### 崩溃 
 
