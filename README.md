@@ -12,27 +12,29 @@
 
 - [未规划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone+-label%3A%E9%95%BF%E6%9C%9F%E4%BB%BB%E5%8A%A1+-label%3A%E6%97%A0%E6%95%88+-label%3A%E4%BB%BB%E5%8A%A1+-label%3A%22Bug%3A+Android%22+-label%3A%22Bug%3A+IOS%22+-label%3A%E5%91%A8%E8%AE%A1%E5%88%92+-label%3AReleases%EF%BC%9AAndroid+-label%3AReleases%EF%BC%9AIOS)
 
-### 任务 - [创建新任务](#创建新任务)
+### 任务
 
 - [UI: Hannah](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Hannah960906)
-
 - [API: Kim](https://github.com/bookey-dev/bookey.requirement/issues/assigned/itwangxiang)
-
 - [IOS: Kayle](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Coolll)
-
 - [Android: Mason](https://github.com/bookey-dev/bookey.requirement/issues/assigned/dyz930509)
-
 - [Test: Johnson](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Johnsonkk2020)
 
-- BUG
-  - [IOS](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22IOS+-+BUG%22)
-  - [Android](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%22Android+-+BUG%22)
+>命名：`任务名`
+>打标签：`功能`
 
-### 版本 - [发布新版本](#发布新版本)  - [流程规范](docs/process-specification.md#版本发布)
+### Bug
 
-[IOS 发版记录](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20IOS)
+- [IOS](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20IOS)
+- [Android](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20Android)
 
-[Android 发版记录](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20Android)
+### 版本 - [流程规范](docs/process-specification.md#版本发布)
+
+- [IOS 发版记录](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20IOS)
+- [Android 发版记录](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20Android)
+
+> - 命名：`v1.x.xxxx(xxx)`
+> - 标签：`Releases: IOS` 或 `Releases: Android`
 
 ### 崩溃 
 
@@ -104,32 +106,3 @@ Issues
   - [ ] Android
 
   ```
-
-### [创建新任务](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
-
-- 命名：`任务名`
-- 任务标签：`任务`
-- 内容模板：
-
-  ```md
-  
-  描述
-
-  ```
-
-### [发布新版本](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
-
-- 命名：`v1.x.xxxx(xxx)`
-- 标签：`Releases: IOS` 或 `Releases: Android`
-- 内容模板（复制粘贴）：
-
-   ```md
-   描述
-
-   - feat: 功能1
-   - fix: 修复1
-   - style: 样式调整1
-   - docs: 文案调整1
-   - refator: 重构1
-   - chore: 其他1
-   ```
