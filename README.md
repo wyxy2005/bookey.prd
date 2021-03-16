@@ -2,7 +2,11 @@
 
 ## 看板
 
-[周计划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%E5%91%A8%E8%AE%A1%E5%88%92)
+- [周计划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%E5%91%A8%E8%AE%A1%E5%88%92)
+- [UI](https://github.com/orgs/bookey-dev/projects/17)
+- [API](https://github.com/orgs/bookey-dev/projects/16)
+- [IOS](https://github.com/orgs/bookey-dev/projects/15)
+- [Android](https://github.com/orgs/bookey-dev/projects/14)
 
 ### 需求 - [发布新需求](#发布新需求)
 
@@ -10,17 +14,12 @@
 - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
 - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
 
-- [未规划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+no%3Amilestone+-label%3A%E9%95%BF%E6%9C%9F%E4%BB%BB%E5%8A%A1+-label%3A%E6%97%A0%E6%95%88+-label%3A%E4%BB%BB%E5%8A%A1+-label%3A%22Bug%3A+Android%22+-label%3A%22Bug%3A+IOS%22+-label%3A%E5%91%A8%E8%AE%A1%E5%88%92+-label%3AReleases%EF%BC%9AAndroid+-label%3AReleases%EF%BC%9AIOS)
-
 ### 任务
 
-- [UI: Hannah](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Hannah960906)
-- [API: Kim](https://github.com/bookey-dev/bookey.requirement/issues/assigned/itwangxiang)
-- [IOS: Kayle](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Coolll)
-- [Android: Mason](https://github.com/bookey-dev/bookey.requirement/issues/assigned/dyz930509)
-
->- 命名：`任务名`
->- 打标签：`功能`
+- [UI](https://github.com/bookey-dev/bookey.ui/issues)
+- [API](https://github.com/bookey-dev/bookey.api/issues)
+- [IOS](https://github.com/bookey-dev/bookey.ios/issues)
+- [Android](https://github.com/bookey-dev/bookey.android/issues)
 
 ### Bug
 
