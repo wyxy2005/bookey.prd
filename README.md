@@ -18,7 +18,6 @@
 - [API: Kim](https://github.com/bookey-dev/bookey.requirement/issues/assigned/itwangxiang)
 - [IOS: Kayle](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Coolll)
 - [Android: Mason](https://github.com/bookey-dev/bookey.requirement/issues/assigned/dyz930509)
-- [Test: Johnson](https://github.com/bookey-dev/bookey.requirement/issues/assigned/Johnsonkk2020)
 
 >- 命名：`任务名`
 >- 打标签：`功能`
