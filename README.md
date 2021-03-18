@@ -57,11 +57,11 @@
 
 ## 模板
 
-### [新需求模板](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
+### [需求模板](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
 - 命名：`需求概述`
-- 需求标签：`新需求`、`功能优化`、`BUG`
-- 里程碑（milestone）：`v1.7`、`v1.8`...
+- 需求标签：`需求`、`BUG`
+- 里程碑（milestone）：`2021-03`、`2021-04`...
 - 内容模板（复制粘贴）：
 
   ```md
