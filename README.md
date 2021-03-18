@@ -2,7 +2,6 @@
 
 ## 看板
 
-- [周计划](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3A%E5%91%A8%E8%AE%A1%E5%88%92)
 - [UI](https://github.com/orgs/bookey-dev/projects/17)
 - [API](https://github.com/orgs/bookey-dev/projects/16)
 - [IOS](https://github.com/orgs/bookey-dev/projects/15)
