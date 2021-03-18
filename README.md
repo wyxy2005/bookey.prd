@@ -19,6 +19,8 @@
   - [issues-android](https://github.com/bookey-dev/bookey.android/issues)
   - [bug-ios](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20IOS)
   - [bug-android](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20Android)
+  - [crash-android](https://github.com/bookey-dev/bookey.requirement/issues/124)
+  - [crash-ios](https://github.com/bookey-dev/bookey.requirement/issues/146)
 
 ### 版本
 
@@ -26,22 +28,6 @@
 - 发版的记录
   - [version-ios](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20IOS)
   - [version-android](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20Android)
-
-### 崩溃 
-
-数据来源
-
-- Android
-  - [Google Play](https://play.google.com/console/developers/8336602248191894610/app/4971990627291724079/vitals/crashes?installedFrom=PLAY_STORE&days=30)
-  - [Firebase Crashlytics](https://console.firebase.google.com/project/helpful-topic-261709/crashlytics/app/android:app.bookey/issues?state=open&time=last-thirty-days&type=crash)
-
-- IOS
-  - [Firebase Crashlytics](https://console.firebase.google.com/project/helpful-topic-261709/crashlytics/app/ios:com.idea.bookey/issues?state=open&time=last-seven-days&type=crash)
-
-Issues
-
-- [Android 崩溃处理](https://github.com/bookey-dev/bookey.requirement/issues/124)
-- [IOS 崩溃处理](https://github.com/bookey-dev/bookey.requirement/issues/146)
 
 ## 文档
 
