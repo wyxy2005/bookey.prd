@@ -2,10 +2,10 @@
 
 ## 看板
 
-- [UI](https://github.com/orgs/bookey-dev/projects/17)
-- [API](https://github.com/orgs/bookey-dev/projects/16)
-- [IOS](https://github.com/orgs/bookey-dev/projects/15)
-- [Android](https://github.com/orgs/bookey-dev/projects/14)
+- [task-ui](https://github.com/orgs/bookey-dev/projects/17)
+- [task-api](https://github.com/orgs/bookey-dev/projects/16)
+- [task-ios](https://github.com/orgs/bookey-dev/projects/15)
+- [task-android](https://github.com/orgs/bookey-dev/projects/14)
 
 ### 需求 - [发布新需求](#发布新需求)
 
