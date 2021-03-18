@@ -30,9 +30,6 @@
 - [IOS 发版记录](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20IOS)
 - [Android 发版记录](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20Android)
 
-命名：`v1.x.xxxx(xxx)`
-打标签：`Releases: IOS` 或 `Releases: Android`
-
 ### 崩溃 
 
 数据来源
