@@ -1,6 +1,6 @@
 # Bookey
 
-## 管理
+## 入口
 
 ### 看板
 
@@ -12,22 +12,23 @@
   - [task-api](https://github.com/orgs/bookey-dev/projects/16)
   - [task-ios](https://github.com/orgs/bookey-dev/projects/15)
   - [task-android](https://github.com/orgs/bookey-dev/projects/14)
+
+### 问题
+
 - Issues
   - [issues-ui](https://github.com/bookey-dev/bookey.ui/issues)
   - [issues-api](https://github.com/bookey-dev/bookey.api/issues)
   - [issues-ios](https://github.com/bookey-dev/bookey.ios/issues)
   - [issues-android](https://github.com/bookey-dev/bookey.android/issues)
+- BUG
   - [bug-ios](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20IOS)
   - [bug-android](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20Android)
+- Crash  
   - [crash-android](https://github.com/bookey-dev/bookey.requirement/issues/124)
   - [crash-ios](https://github.com/bookey-dev/bookey.requirement/issues/146)
-
-### 版本
-
-- [发版的流程规范](docs/process-specification.md#版本发布)
-- 发版的记录
-  - [version-ios](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20IOS)
-  - [version-android](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20Android)
+- Version - [规范](docs/process-specification.md#版本发布)
+  - [log-ios](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20IOS)
+  - [log-android](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20Android)
 
 ## 文档
 
