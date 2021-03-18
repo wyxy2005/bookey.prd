@@ -1,8 +1,10 @@
 # Bookey
 
-## 看板
+## 管理
 
-- 版本
+### 看板
+
+- 规划
   - [v1.8](https://github.com/bookey-dev/bookey.requirement/projects/13)
   - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
 - 进度
@@ -18,7 +20,7 @@
   - [bug-ios](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20IOS)
   - [bug-android](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20Android)
 
-### 版本记录
+### 版本
 
 - [发版的流程规范](docs/process-specification.md#版本发布)
 - 发版的记录
@@ -69,7 +71,7 @@ Issues
 
 ## 模板
 
-### [发布新需求](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
+### [新需求模板](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
 
 - 命名：`需求概述`
 - 需求标签：`新需求`、`功能优化`、`BUG`
