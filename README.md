@@ -2,16 +2,17 @@
 
 ## 看板
 
-- [task-ui](https://github.com/orgs/bookey-dev/projects/17)
-- [task-api](https://github.com/orgs/bookey-dev/projects/16)
-- [task-ios](https://github.com/orgs/bookey-dev/projects/15)
-- [task-android](https://github.com/orgs/bookey-dev/projects/14)
+- 版本
+  - [v1.8](https://github.com/bookey-dev/bookey.requirement/projects/13)
+  - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
+- 进度
+  - [task-ui](https://github.com/orgs/bookey-dev/projects/17)
+  - [task-api](https://github.com/orgs/bookey-dev/projects/16)
+  - [task-ios](https://github.com/orgs/bookey-dev/projects/15)
+  - [task-android](https://github.com/orgs/bookey-dev/projects/14)
 
 ### 需求 - [发布新需求](#发布新需求)
 
-- [v1.8](https://github.com/bookey-dev/bookey.requirement/projects/13)
-- [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
-- [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
 
 ### Issues
 
