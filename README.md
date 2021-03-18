@@ -19,6 +19,7 @@
   - [issues-ios](https://github.com/bookey-dev/bookey.ios/issues)
   - [issues-android](https://github.com/bookey-dev/bookey.android/issues)
 - BUG
+  - [bug-api](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20API) 
   - [bug-ios](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20IOS)
   - [bug-android](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20Android)
 - Crash  
