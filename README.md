@@ -13,11 +13,11 @@
 
 ### 问题
 
-- Issues
-  - [issues-ui](https://github.com/bookey-dev/bookey.ui/issues)
-  - [issues-api](https://github.com/bookey-dev/bookey.api/issues)
-  - [issues-ios](https://github.com/bookey-dev/bookey.ios/issues)
-  - [issues-android](https://github.com/bookey-dev/bookey.android/issues)
+- project
+  - [project-ui](https://github.com/bookey-dev/bookey.ui/issues)
+  - [project-api](https://github.com/bookey-dev/bookey.api/issues)
+  - [project-ios](https://github.com/bookey-dev/bookey.ios/issues)
+  - [project-android](https://github.com/bookey-dev/bookey.android/issues)
 - BUG
   - [bug-api](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20API) 
   - [bug-ios](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20IOS)
