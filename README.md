@@ -46,15 +46,15 @@
 
 ### 链接
 
-- APP 下载链接
-  - IOS
-    - [测试版](https://www.pgyer.com/o9So) - `0910`
-    - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
-    - [App Store](https://apps.apple.com/cn/app/id1490069864)
-  - Android
-    - [测试版](https://www.pgyer.com/C5re) - `2021`
-    - [Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
-    - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
+- IOS
+  - [测试版](https://www.pgyer.com/o9So) - `0910`
+  - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
+  - [App Store](https://apps.apple.com/cn/app/id1490069864)
+- Android
+  - [测试版](https://www.pgyer.com/C5re) - `2021`
+  - [Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
+  - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
+
 
 ## 模板
 
