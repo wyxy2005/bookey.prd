@@ -13,17 +13,14 @@
 - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
 - [v1.6](https://github.com/bookey-dev/bookey.requirement/projects/11)
 
-### 任务
+### issues
 
-- [UI](https://github.com/bookey-dev/bookey.ui/issues)
-- [API](https://github.com/bookey-dev/bookey.api/issues)
-- [IOS](https://github.com/bookey-dev/bookey.ios/issues)
-- [Android](https://github.com/bookey-dev/bookey.android/issues)
-
-### Bug
-
-- [IOS](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20IOS)
-- [Android](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20Android)
+- [issues-ui](https://github.com/bookey-dev/bookey.ui/issues)
+- [issues-api](https://github.com/bookey-dev/bookey.api/issues)
+- [issues-ios](https://github.com/bookey-dev/bookey.ios/issues)
+- [issues-android](https://github.com/bookey-dev/bookey.android/issues)
+- [bug-ios](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20IOS)
+- [bug-android](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20Android)
 
 ### 版本 - [流程规范](docs/process-specification.md#版本发布)
 
