@@ -3,8 +3,8 @@
 ### 看板
 
 - 规划
-  - [v1.8](https://github.com/bookey-dev/bookey.requirement/projects/13)
-  - [v1.7](https://github.com/bookey-dev/bookey.requirement/projects/12)
+  - [v1.8](https://github.com/bookey-dev/bookey.prd/projects/13)
+  - [v1.7](https://github.com/bookey-dev/bookey.prd/projects/12)
 - 进度
   - [task-ui](https://github.com/orgs/bookey-dev/projects/17)
   - [task-api](https://github.com/orgs/bookey-dev/projects/16)
@@ -19,15 +19,15 @@
   - [project-ios](https://github.com/bookey-dev/bookey.ios/issues)
   - [project-android](https://github.com/bookey-dev/bookey.android/issues)
 - BUG
-  - [bug-api](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20API) 
-  - [bug-ios](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20IOS)
-  - [bug-android](https://github.com/bookey-dev/bookey.requirement/labels/Bug%3A%20Android)
+  - [bug-api](https://github.com/bookey-dev/bookey.prd/labels/Bug%3A%20API) 
+  - [bug-ios](https://github.com/bookey-dev/bookey.prd/labels/Bug%3A%20IOS)
+  - [bug-android](https://github.com/bookey-dev/bookey.prd/labels/Bug%3A%20Android)
 - Crash  
-  - [crash-android](https://github.com/bookey-dev/bookey.requirement/issues/124)
-  - [crash-ios](https://github.com/bookey-dev/bookey.requirement/issues/146)
+  - [crash-android](https://github.com/bookey-dev/bookey.prd/issues/124)
+  - [crash-ios](https://github.com/bookey-dev/bookey.prd/issues/146)
 - Version - [规范](docs/process-specification.md#版本发布)
-  - [log-ios](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20IOS)
-  - [log-android](https://github.com/bookey-dev/bookey.requirement/labels/Releases%3A%20Android)
+  - [log-ios](https://github.com/bookey-dev/bookey.prd/labels/Releases%3A%20IOS)
+  - [log-android](https://github.com/bookey-dev/bookey.prd/labels/Releases%3A%20Android)
 
 ## 文档
 
@@ -57,7 +57,7 @@
 
 ## 模板
 
-### [需求模板](https://github.com/bookey-dev/bookey.requirement/issues/new/choose)
+### [需求模板](https://github.com/bookey-dev/bookey.prd/issues/new/choose)
 
 - 命名：`需求概述`
 - 需求标签：`需求`、`BUG`
