@@ -27,7 +27,8 @@
   - [crash-ios](https://github.com/bookey-dev/bookey.prd/issues/146)
 - Version - [规范](docs/process-specification.md#版本发布)
   - [log-ios](https://github.com/bookey-dev/bookey.prd/labels/Releases%3A%20IOS)
-  - [log-android](https://github.com/bookey-dev/bookey.prd/labels/Releases%3A%20Android)
+  - [log-google](https://github.com/bookey-dev/bookey.prd/labels/Releases%3A%20Google)
+  - [log-huawei](https://github.com/bookey-dev/bookey.prd/labels/Releases%3A%20Huawei)
 
 ## 文档
 
