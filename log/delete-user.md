@@ -7,6 +7,39 @@
 
 ## log
 
+20210324
+
+- chaitanya7725@gmail.com
+
+```json
+{ 
+    "_id" : "SignInWithApple_000575.58776bfc26974e609a9a4a0a55447fed.0946", 
+    "name" : "", 
+    "email" : "chaitanya7725@gmail.com", 
+    "tried" : false, 
+    "avatarPath" : "", 
+    "invitedNumber" : NumberInt(0), 
+    "premiumDays" : NumberInt(0), 
+    "markCount" : NumberInt(1), 
+    "referees" : [
+
+    ], 
+    "createdDate" : "20200720174632", 
+    "createdDate_ms" : NumberLong(1595238392341), 
+    "google_ExpiryTimeMillis" : NumberLong(0), 
+    "payBy" : "none", 
+    "isValid" : false, 
+    "expires_date_ms" : NumberLong(0), 
+    "final_expires_date_ms" : NumberLong(0), 
+    "rewarded_ms" : NumberLong(0), 
+    "used_rewarded_ms" : NumberLong(0), 
+    "final_valid" : false, 
+    "_class" : "app.bookey.user.domain.User"
+}
+```
+
+
+
 20210315
 
 - jessie.hc.hon@gmail.com
