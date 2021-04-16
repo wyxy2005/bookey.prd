@@ -1,6 +1,6 @@
 # 需求 
 
-> [快速导航](https://bookey-dev.github.io/)
+> [父网址](https://bookey-dev.github.io/)
 
 ---
 
