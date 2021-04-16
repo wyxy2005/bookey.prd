@@ -1,6 +1,6 @@
 # 需求 
 
-> [父网址](https://bookey-dev.github.io/)
+> [根网址](https://bookey-dev.github.io/)
 
 ---
 
