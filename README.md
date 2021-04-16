@@ -11,6 +11,6 @@
 
 --- 
 
-[快速网址](https://bookey-dev.github.io/)
+[网址导航](https://bookey-dev.github.io/)
 
-[文档 - Wiki](https://github.com/bookey-dev/bookey.docs/wiki)
+[文档 Wiki](https://github.com/bookey-dev/bookey.docs/wiki)
