@@ -1,4 +1,4 @@
-> [根网址](https://bookey-dev.github.io/)
+> [根网址：https://bookey-dev.github.io](https://bookey-dev.github.io)
 
 # 需求 
 
