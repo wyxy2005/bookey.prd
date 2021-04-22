@@ -23,9 +23,9 @@
 
 ### 版本管理
 
-[IOS 发版记录](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20ios) - [点击创建版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+ios)
+[IOS 发版记录](https://github.com/bookey-dev/bookey.prd/issues?q=label%3A"releases%3A+ios"+) - [点击创建版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+ios)
 
 Android 发版记录
 
-- [Google play](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20google) --- [点击创建版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+google)
-- [Huawei store](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20huawei) --- [点击创建版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+huawei)
+- [Google play](https://github.com/bookey-dev/bookey.prd/issues?q=label%3A"releases%3A+google"+) --- [点击创建版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+google)
+- [Huawei store](https://github.com/bookey-dev/bookey.prd/issues?q=label%3A"releases%3A+huawei"+) --- [点击创建版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+huawei)
