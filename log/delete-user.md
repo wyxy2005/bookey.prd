@@ -7,6 +7,14 @@
 
 ## log
 
+20210422
+
+- urbantraditionke@gmail.com
+
+```json
+{ "_id" : "Google_109784023192506192566", "name" : "Urban Tradition", "email" : "urbantraditionke@gmail.com", "avatarPath" : "https://lh3.googleusercontent.com/a-/AOh14GipRnXbCZVYcZdw7xwJOWss_pgRYcTmRTWYekLs=s96-c", "createdDate" : "20210417173151", "createdDate_ms" : NumberLong("1618651911430"), "purchase_date_ms" : NumberLong(0), "expires_date_ms" : NumberLong(0), "final_expires_date_ms" : NumberLong(0), "payBy" : "none", "payIsSandbox" : false, "autoRenewing" : false, "isGracePeriod" : false, "isTriedFreeSubscribe" : false, "tried_at_date_ms" : NumberLong(0), "grace_at_date_ms" : NumberLong(0), "cancel_date_ms" : NumberLong(0), "trialConvert" : false, "high_trial_convert" : false, "low_trial_convert" : false, "needLogTrialConvertEvent" : false, "need_high_trial_convert_event" : false, "need_low_trial_convert_event" : false, "rewarded_ms" : NumberLong(0), "used_rewarded_ms" : NumberLong(0), "commented" : false, "notifySwitch" : true, "emailSwitch" : true, "markCount" : 0, "boardingUpdateDate_ms" : NumberLong("1618652002465"), "boardingBookTag" : [ "20200924134850035", "20200924134932834", "20200924133459246" ], "boardingGender" : 1, "boardingReadBookCount" : 1, "showGiftDotBadge" : false, "endpoint" : { "pushToken" : "huawei", "pushPlatform" : "2", "timeZone" : "GMT+03:00", "platform" : "android", "install_source" : "huawei_store", "appVersion" : "1.8.0409", "make" : "HUAWEI", "model" : "VTR-L29", "country" : "en-KE", "updateDate" : "20210417173800772", "updateDate_ms" : NumberLong("1618652280772"), "_class" : "app.bookey.user.domain.Endpoint" }, "appUseTime" : NumberLong(0), "invitedNumber" : 0, "premiumDays" : 0, "_class" : "app.bookey.user.domain.User" }
+```
+
 20210324
 
 - chaitanya7725@gmail.com
