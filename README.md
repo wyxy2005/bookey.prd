@@ -23,8 +23,6 @@
 
 ### 版本管理
 
-发版记录
-
 [IOS 发版记录](https://github.com/bookey-dev/bookey.prd/labels/releases%3A%20ios) - [点击创建版本](https://github.com/bookey-dev/bookey.prd/issues/new?labels=releases%3A+ios)
 
 Android 发版记录
