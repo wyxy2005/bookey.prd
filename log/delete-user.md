@@ -7,6 +7,15 @@
 
 ## log
 
+20210511
+
+- siawlei95@gmail.com
+
+```json
+{ "_id" : "Google_110362630398721420109", "name" : "Siaw Lei", "email" : "siawlei95@gmail.com", "avatarPath" : "https://lh3.googleusercontent.com/a/AATXAJztVzdLOy4XrD-rz-eei6XT-Vhe-rbNWY8I1kmw=s96-c", "createdDate" : "20210508114612", "createdDate_ms" : NumberLong("1620445572844"), "purchase_date_ms" : NumberLong(0), "expires_date_ms" : NumberLong(0), "final_expires_date_ms" : NumberLong(0), "payBy" : "none", "payIsSandbox" : false, "autoRenewing" : false, "isGracePeriod" : false, "isTriedFreeSubscribe" : false, "tried_at_date_ms" : NumberLong(0), "grace_at_date_ms" : NumberLong(0), "cancel_date_ms" : NumberLong(0), "trialConvert" : false, "high_trial_convert" : false, "low_trial_convert" : false, "needLogTrialConvertEvent" : false, "need_high_trial_convert_event" : false, "need_low_trial_convert_event" : false, "rewarded_ms" : NumberLong(0), "used_rewarded_ms" : NumberLong(0), "commented" : false, "notifySwitch" : true, "emailSwitch" : true, "notifyFreeDaily" : true, "notifyFreeDailyTime" : "08:00", "notify21Challenge" : true, "notify21ChallengeTime" : "20:00", "markCount" : 0, "boardingUpdateDate_ms" : NumberLong("1620445641000"), "boardingBookTag" : [ "20200924134721943", "20200924134811518", "20200924134850035" ], "boardingGender" : 2, "boardingReadBookCount" : 1, "showGiftDotBadge" : false, "endpoint" : { "pushToken" : "", "pushPlatform" : "0", "timeZone" : "Asia/Kuching", "platform" : "ios", "appVersion" : "1.9.5", "make" : "apple", "model" : "iPhone 7 Plus", "country" : "MY", "updateDate" : "20210510215512115", "updateDate_ms" : NumberLong("1620654912115"), "_class" : "app.bookey.user.domain.Endpoint" }, "appUseTime" : NumberLong(298248), "invitedNumber" : 0, "premiumDays" : 0, "_class" : "app.bookey.user.domain.User" }
+```
+
+
 20210422
 
 - urbantraditionke@gmail.com
