@@ -10,6 +10,7 @@
 
 按版本
 
+- [v1.13](https://github.com/bookey-dev/bookey.prd/projects/35)
 - [v1.12](https://github.com/bookey-dev/bookey.prd/projects/34)
 - [v1.11](https://github.com/bookey-dev/bookey.prd/projects/33)
 - [v1.10](https://github.com/bookey-dev/bookey.prd/projects/24)
