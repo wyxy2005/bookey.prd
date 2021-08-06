@@ -1,4 +1,4 @@
-> [Bookey 开发网址](https://bookey-dev.github.io) / [Bookey 文档网址](https://github.com/bookey-dev/bookey.prd/wiki) / [Bookey API网址](https://dev.bookey.app:8000/doc.html#/home)
+> [Bookey 开发网址](https://bookey-dev.github.io) / [Bookey 文档网址](https://github.com/bookey-dev/bookey.prd/wiki) / [Bookey API 网址](https://dev.bookey.app:8000/doc.html#/home) / [Bookey BUG 网址](https://github.com/bookey-dev/bookey.bug/issues) / [Bookey 任务看板](https://github.com/orgs/bookey-dev/projects)
 
 ## 需求管理
 
