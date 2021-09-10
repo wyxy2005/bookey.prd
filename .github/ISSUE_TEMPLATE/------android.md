@@ -1,8 +1,8 @@
 ---
-name: 新功能
-about: 创建一个新的功能
+name: 新功能 - Android
+about: 创建一个 Android 端的新功能
 title: ''
-labels: 'a: 新功能'
+labels: 'a: 新功能, task: android'
 assignees: ''
 
 ---
