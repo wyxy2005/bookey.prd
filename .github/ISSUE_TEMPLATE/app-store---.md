@@ -1,7 +1,7 @@
 ---
 name: App Store 发版
 about: IOS 版本发布记录
-title: 请输入版本号
+title: v1.?.?
 labels: 'releases: ios'
 assignees: ''
 
